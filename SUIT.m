@@ -21,3 +21,4 @@ suit_reslice_dartel(job)
 %呈现标准化后的flat视角的小脑部分
 map=suit_map2surf('E:\exp2\RSA\01 RSA\searchlight r=100 voxels\06GRF cluster in SUIT space\word shape\wdall cluster.nii');
 suit_plotflatmap(map)
+
